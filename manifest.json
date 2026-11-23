@@ -9,7 +9,7 @@
       "category": "quran_surahs",
       "version": 1,
       "sizeBytes": 3152309,
-      "downloadUrl": "https://github.com/MetinYazarim/irab-pro-data/releases/download/pack-v1/temel-sureler-v1.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/MetinYazarim/irab-pro-data/main/temel-sureler-v1.zip",
       "sha256": "a3ff4a3f4a1c7d1aedee2f102cc218cd5ab44277bca2055f9476306bd90fe717",
       "surahCount": 12,
       "audioCount": 258,
